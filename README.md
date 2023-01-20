@@ -46,7 +46,7 @@ Se debe entregar:
 ### Repositorio en GitHub 
 - Consigna
 	- Utilizar Git de forma correcta para versionar el proyecto. Hacer uso de GitHub para brindar acceso al proyecto versionado.
-	Se debe entregar:
+Se debe entregar:
 		- Enviar al repositorio todos los archivos necesarios para visualizar correctamente la web.
 		- Utilizar .gitignore para evitar enviar archivos irrelevantes para la presentación como node_modules.
 		- En el repositorio se muestran los commit realizados para actualizar/versionar el código.
